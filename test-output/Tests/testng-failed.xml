@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Tests]">
+  <parameter name="sufix" value="?proba&amp;offerid=7&amp;geo=ca"/>
+  <parameter name="host" value="localhost:8080"/>
+  <test name="Tests">
+    <classes>
+      <class name="com.sherybedrock.tests.Tests"/>
+    </classes>
+  </test> <!-- Tests -->
+</suite> <!-- Failed suite [Tests] -->
