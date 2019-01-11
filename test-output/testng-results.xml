@@ -6,12 +6,12 @@
     <groups>
     </groups>
     <test name="Default test" duration-ms="21479" started-at="2016-02-16T13:21:56Z" finished-at="2016-02-16T13:22:18Z">
-      <class name="com.sherybedrock.tests.Tests">
-        <test-method status="PASS" signature="testRetinollaLocalhost()[pri:0, instance:com.sherybedrock.tests.Tests@24e55d75]" name="testRetinollaLocalhost" duration-ms="21467" started-at="2016-02-16T15:21:56Z" finished-at="2016-02-16T15:22:18Z">
+      <class name="com.stemologica.tests.Tests">
+        <test-method status="PASS" signature="testRetinollaLocalhost()[pri:0, instance:com.stemologica.tests.Tests@24e55d75]" name="testRetinollaLocalhost" duration-ms="21467" started-at="2016-02-16T15:21:56Z" finished-at="2016-02-16T15:22:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetinollaLocalhost -->
-      </class> <!-- com.sherybedrockk.tests.Tests -->
+      </class> <!-- com.stemologica.tests.Tests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

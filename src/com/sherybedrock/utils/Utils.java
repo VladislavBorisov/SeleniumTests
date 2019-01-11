@@ -8,7 +8,7 @@ public class Utils {
 
     public static WebDriver newDriver() {
         ChromeOptions chromeOptions = new ChromeOptions();
-        System.setProperty("webdriver.chrome.driver", "D://IdeaProjects//SeleniumTests//src//chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "D:\\IdeaProjects\\SeleniumTests\\src\\chromedriver.exe");
         return new ChromeDriver(chromeOptions);
     }
 

@@ -2,6 +2,7 @@ package com.sherybedrock.tests;
 
 import com.sherybedrock.methods.FormsLogic;
 import com.sherybedrock.utils.Utils;
+import com.sun.corba.se.spi.orbutil.fsm.Input;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
@@ -20,6 +21,7 @@ public class Tests {
         Utils.waitInSeconds(2);
         FormsLogic.fillTimeCardForms(driver);
         Utils.waitInSeconds(2);
+
     }
 
     @AfterMethod
@@ -27,4 +29,5 @@ public class Tests {
         Utils.waitInSeconds(2);
         driver.close();
     }
+
 }

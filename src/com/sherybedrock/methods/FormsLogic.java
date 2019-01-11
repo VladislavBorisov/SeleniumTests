@@ -6,12 +6,12 @@ import org.openqa.selenium.WebDriver;
 
 public class FormsLogic {
 
-    private static final String USER = "endava\\vborisov";
-    private static final String PROJECT_CODE = "ELADV004 - APM Gateway";
+    private static final String USER = "endava\\your name";
+    private static final String PROJECT_CODE = "your project code";
     private static final String TASK_DETAILS = "03 - Concurrent Engineering";
     private static final String HOME_OFFICE = "Home Office";
     private static final String TIME_TYPE = "Regular";
-    private static final String PASS = "5tgb^YHN7ujm";
+    private static final String PASS = "your pass";
     private static final String HOURS = "8";
 
     public static void fillTimeCardForms(WebDriver driver) {

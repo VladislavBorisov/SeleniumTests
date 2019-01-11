@@ -5,7 +5,7 @@
   <parameter name="host" value="localhost:8080"/>
   <test name="Tests">
     <classes>
-      <class name="com.sherybedrock.tests.Tests"/>
+      <class name="com.stemologica.tests.Tests"/>
     </classes>
   </test> <!-- Tests -->
 </suite> <!-- Failed suite [Tests] -->
